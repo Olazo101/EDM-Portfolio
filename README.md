@@ -9,5 +9,5 @@ Student from City College Of Angeles, from Bachelor of Science in Information Sy
 - Junior High School: San Francisco G. Nepomuceno Memorial High School
 - Elementary: Batug Elementary School
 # My Projects
-- Midterm Lab Task 1:
+- Midterm Lab Task 1: 
 - Midterm Lab Task 2:
