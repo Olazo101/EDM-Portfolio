@@ -16,5 +16,5 @@ For this task we are given a Flat data from Excel (See rawfile) and we are Task 
 # STEP 3 Here's the screenshot of my output before I started data cleaning (See screenshot)
 ![Sample Output](Midterm%20Lab%20Task%201/Images/Before.PNG)
 # STEP 4 Here's the screenshot of my output after I started data cleaning (See screenshot)
-(![Sample Output](Midterm%20Lab%20Task%201/Images/Final%20data.Xlsx)
+![Sample Output](Midterm%20Lab%20Task%201/Images/After.PNG)
 # Here's the Physical Data Model
