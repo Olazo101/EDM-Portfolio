@@ -8,3 +8,4 @@ I am a BS Information Systems student wants to know more about technology, data 
 - Elementary: Batug Elementary School
 - Highschool: Angeles City Senior High School
 - College: City College of Angeles
+
