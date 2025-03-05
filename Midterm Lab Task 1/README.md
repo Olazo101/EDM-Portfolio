@@ -26,4 +26,4 @@ For this task we are given a Flat data from Excel (See rawfile) and we are Task 
 
 
 # Here's the Physical Data Model
-
+![screenshot](images/ERD.PNG)
