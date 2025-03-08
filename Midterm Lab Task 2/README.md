@@ -1,2 +1,2 @@
 
-# Midterm Lab Task 2:Data Cleaning and Preparation using POWER QUERY
+# Midterm Lab Task 2: Data Cleaning and Preparation using POWER QUERY
