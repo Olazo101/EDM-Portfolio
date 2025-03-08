@@ -1,6 +1,7 @@
 
 # Midterm Lab Task 2: Data Cleaning and Preparation using POWER QUERY
 
+
 # Step 1 Import and Set Up Data
 - Load the dataset from a CSV file.
 - Promote the first row to headers.
