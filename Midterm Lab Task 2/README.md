@@ -60,6 +60,3 @@ Competitors is "-1".
 # STEP 10 Here's the screenshot of my output after I started data cleaning (See screenshot)
 ![screenshot](images/After.PNG)
 
-
-# Here's the Physical Data Model
-![screenshot](images/ERD.PNG)
