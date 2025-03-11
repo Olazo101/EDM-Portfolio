@@ -54,9 +54,12 @@ Competitors is "-1".
 - Abbreviation column.
 - Rename columns for clarity.
 
-# Step 9 Here's the screenshot of my output before Data Cleaning and Preparation using POWER QUERY (See screenshot)
+# Step 9 Here's the screenshot of my output before Data Cleaning and Preparation using POWER QUERY
 ![screenshot](images/before.PNG)
 
-# STEP 10 Here's the screenshot of my output after Data Cleaning and Preparation using POWER QUERY (See screenshot)
+# Step 10 Here's the screenshot of my output before Data Cleaning and Preparation using POWER QUERY
 ![screenshot](images/After.PNG)
+
+# STEP 11 Here's the screenshot of my QUERIES DEPENDENCIES and REFERENCE
+![screenshot](images/Queries%20Dependencies%20and%20Reference.PNG)
 
