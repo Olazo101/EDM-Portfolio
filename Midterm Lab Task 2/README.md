@@ -57,7 +57,7 @@ Competitors is "-1".
 # Step 9 Here's the screenshot of my output before Data Cleaning and Preparation using POWER QUERY
 ![screenshot](images/before.PNG)
 
-# Step 10 Here's the screenshot of my output before Data Cleaning and Preparation using POWER QUERY
+# Step 10 Here's the screenshot of my output after Data Cleaning and Preparation using POWER QUERY
 ![screenshot](images/After.PNG)
 
 # STEP 11 Here's the screenshot of my QUERIES DEPENDENCIES and REFERENCE
