@@ -54,9 +54,9 @@ Competitors is "-1".
 - Abbreviation column.
 - Rename columns for clarity.
 
-# Step 9 Here's the screenshot of my output before I started data cleaning (See screenshot)
-![screenshot](images/Before.PNG)
+# Step 9 Here's the screenshot of my output before Data Cleaning and Preparation using POWER QUERY (See screenshot)
+![screenshot](images/before.PNG)
 
-# STEP 10 Here's the screenshot of my output after I started data cleaning (See screenshot)
+# STEP 10 Here's the screenshot of my output after Data Cleaning and Preparation using POWER QUERY (See screenshot)
 ![screenshot](images/After.PNG)
 
