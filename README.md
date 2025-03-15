@@ -11,5 +11,5 @@ I am a BS Information Systems student wants to know more about technology, data 
 
  # My Projects
 - Midterm Lab Task 1:[Data Cleaning and Preparation using EXCEL](https://github.com/Olazo101/EDM-Portfolio/blob/main/Midterm%20Lab%20Task%201/README.md)
-- Midterm Lab Task 2:[Data Cleaning and Preparation using POWER QUERY](Midterm%20Lab%20Task%202/README.md)(https://github.com/Olazo101/EDM-Portfolio/blob/main/Midterm%20Lab%20Task%202/README.md)
-- Midter Lab Task 3:[Creating Pivot Tables and Charts](Midterm%20Lab%20Task%203/README.md)(https://github.com/Olazo101/EDM-Portfolio/blob/main/Midterm%20Lab%20Task%203/README.md)
+- Midterm Lab Task 2:[Data Cleaning and Preparation using POWER QUERY](https://github.com/Olazo101/EDM-Portfolio/blob/main/Midterm%20Lab%20Task%202/README.md)
+- Midter Lab Task 3:[Creating Pivot Tables and Charts](https://github.com/Olazo101/EDM-Portfolio/blob/main/Midterm%20Lab%20Task%203/README.md)
