@@ -21,4 +21,5 @@ For this task we are creating pivot tables and charts using the previous data fr
 - Copy the output of your analysis then paste it on dashboard
 - Design it by your choice
 
-- 
+  # Here's the picture before I started
+  
