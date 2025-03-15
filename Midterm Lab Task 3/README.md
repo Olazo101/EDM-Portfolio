@@ -25,5 +25,5 @@ For this task we are creating pivot tables and charts using the previous data fr
   ![screenshot](images/before.PNG)
 
   # Here's the screenshot after
-  ![screenshot](after.PNG)
+  ![screenshot](images/after.PNG)
   
