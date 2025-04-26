@@ -67,3 +67,16 @@ DESCRIBE managers;
 # Here's the screenshot of my query statement and table structure
 ## Task 1
 ![screenshot](images/task1.jpg)
+
+## Task 2
+![screenshot](images/task2.jpg)
+
+## Task 3
+![screenshot](images/task3.jpg)
+
+## Task 4
+![screenshot](images/task4.jpg)
+
+## Task 5
+![screenshot](images/task5.jpg)
+
