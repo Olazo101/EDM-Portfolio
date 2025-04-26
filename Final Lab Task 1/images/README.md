@@ -19,6 +19,7 @@ manager_id INT,
 FOREIGN KEY (manager_id) REFERENCES employees(employee_id)
 );
 
+
 DESCRIBE employees;
 
 ### ii. CREATE TABLE departments (
@@ -26,6 +27,7 @@ department_id INT AUTO_INCREMENT PRIMARY KEY,
 department_name VARCHAR(255) NOT NULL);
 
 DESCRIBE departments;
+
 
 ### iii. CREATE TABLE employee_departments (
 employee_id INT,
@@ -36,12 +38,14 @@ FOREIGN KEY (department_id) REFERENCES departments(department_id)
 
 DESCRIBE employee_departments;
 
+
 ### iiii. CREATE TABLE employee_projects (
 employee_id INT,
 FOREIGN KEY (employee_id) REFERENCES employees(employee_id),
 project_name VARCHAR(255) NOT NULL);
 
 DESCRIBE employee_projects;
+
 
 ### iiiii. CREATE TABLE managers (
 managers_id INT AUTO_INCREMENT PRIMARY KEY,
