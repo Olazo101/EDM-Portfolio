@@ -65,18 +65,18 @@ FOREIGN KEY (employee_id) REFERENCES employees(employee_id)
 DESCRIBE managers;
 
 # Here's the screenshot of my query statement and table structure
-## Task 1
+## Task 1: Employees
 ![screenshot](images/task1.jpg)
 
-## Task 2
+## Task 2: Departments
 ![screenshot](images/task2.jpg)
 
-## Task 3
+## Task 3: Employee Departments
 ![screenshot](images/task3.jpg)
 
-## Task 4
+## Task 4: Employee Projects 
 ![screenshot](images/task4.jpg)
 
-## Task 5
+## Task 5: Managers
 ![screenshot](images/task5.jpg)
 
