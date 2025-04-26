@@ -1,4 +1,4 @@
-# finals Lab Task 1: MySQL Basics
+# Finals Lab Task 1: MySQL Basics
 This task involves using MySQL Workbench to design and create a database that manages employees, their managers, departments, and projects. It organizes the data with proper table relationships so everything is connected and easy to manage visually and through SQL queries.
 
 # Step 1
