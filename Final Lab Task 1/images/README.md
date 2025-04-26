@@ -56,5 +56,5 @@ FOREIGN KEY (employee_id) REFERENCES employees(employee_id)
 DESCRIBE managers;
 
 # Here's the screenshot of my query statement and table structure
-![screenshot](Images/task1.PNG)
+![screenshot](Images/task%201.PNG)
 
