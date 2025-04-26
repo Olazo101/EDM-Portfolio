@@ -14,7 +14,7 @@ This task involves using MySQL Workbench to design and create a database that ma
 ## Task 1
 CREATE DATABASE company_db;
 
-![screenshot](images/createdatabse.jpg)
+![screenshot](images/createdatabase.jpg)
 ## Task 2
 CREATE TABLE employees (
 employee_id INT AUTO_INCREMENT PRIMARY KEY,
