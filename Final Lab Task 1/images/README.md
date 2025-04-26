@@ -54,3 +54,4 @@ FOREIGN KEY (employee_id) REFERENCES employees(employee_id)
 );
 
 DESCRIBE managers;
+
