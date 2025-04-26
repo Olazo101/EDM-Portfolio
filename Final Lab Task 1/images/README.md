@@ -55,3 +55,4 @@ FOREIGN KEY (employee_id) REFERENCES employees(employee_id)
 
 DESCRIBE managers;
 
+# Here's the screenshot of MySQl 
