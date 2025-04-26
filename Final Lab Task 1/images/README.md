@@ -21,4 +21,10 @@ FOREIGN KEY (manager_id) REFERENCES employees(employee_id)
 
 DESCRIBE employees;
 
+### ii. CREATE TABLE departments (
+department_id INT AUTO_INCREMENT PRIMARY KEY,
+department_name VARCHAR(255) NOT NULL);
+
+DESCRIBE departments;
+
 
