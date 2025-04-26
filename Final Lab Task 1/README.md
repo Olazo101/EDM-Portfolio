@@ -73,10 +73,10 @@ FOREIGN KEY (employee_id) REFERENCES employees(employee_id)
 ![screenshot](images/empstructure.jpg)
 
 ## Task 2: Departments
-![screenshot](images/depstructure.jpg)
+![screenshot](images/deptstructure.jpg)
 
 ## Task 3: Employee Department
-![screenshot](images/emplodepstructure.jpg)
+![screenshot](images/emplodeptstructure.jpg)
 
 ## Task 4: Employee Project
 ![screenshot](images/emploprojstructure.jpg)
