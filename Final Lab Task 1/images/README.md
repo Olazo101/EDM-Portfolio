@@ -35,3 +35,18 @@ FOREIGN KEY (department_id) REFERENCES departments(department_id)
 );
 
 DESCRIBE employee_departments;
+
+### iiii. CREATE TABLE employee_projects (
+employee_id INT,
+FOREIGN KEY (employee_id) REFERENCES employees(employee_id),
+project_name VARCHAR(255) NOT NULL);
+
+DESCRIBE employee_projects;
+
+### iiiii. CREATE TABLE managers (
+managers_id INT AUTO_INCREMENT PRIMARY KEY,
+employee_id INT,
+FOREIGN KEY (employee_id) REFERENCES employees(employee_id)
+);
+
+DESCRIBE managers;
