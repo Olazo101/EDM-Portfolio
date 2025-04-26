@@ -12,7 +12,7 @@ This task involves using MySQL Workbench to design and create a database that ma
 
 ## Task 1: CREATE DATABASE company_db;
 
-i. CREATE TABLE employees (
+### i. CREATE TABLE employees (
 employee_id INT AUTO_INCREMENT PRIMARY KEY,
 employee_name VARCHAR(255) NOT NULL,
 manager_id INT,
