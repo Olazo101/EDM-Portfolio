@@ -10,7 +10,7 @@ This task involves using MySQL Workbench to design and create a database that ma
 # Step 3
 - After inputing all the information, execute all the query to know if there's an error to your work.
 
-# Task 1: CREATE DATABASE company_db;
+## Task 1: CREATE DATABASE company_db;
 
 i. CREATE TABLE employees (
 employee_id INT AUTO_INCREMENT PRIMARY KEY,
