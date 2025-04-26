@@ -68,6 +68,24 @@ FOREIGN KEY (employee_id) REFERENCES employees(employee_id)
 
 ![screenshot](images/task5.jpg)
 
+# Here's the TABLE STRUCTURE
+## Task 1: Employees
+![screenshot](images/empstructure.jpg)
+
+## Task 2: Departments
+![screenshot](images/depstructure.jpg)
+
+## Task 3: Employee Department
+![screenshot](images/emplodepstructure.jpg)
+
+## Task 4: Employee Project
+![screenshot](images/emploprojstructure.jpg)
+
+## Task 5: Manager
+![screenshot](images/managerstructure.jpg)
+
+
+
 # Here's the screenshot of ER Diagram
 ![screenshot](images/erddiagram.jpg)
 
