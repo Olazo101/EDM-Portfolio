@@ -27,4 +27,11 @@ department_name VARCHAR(255) NOT NULL);
 
 DESCRIBE departments;
 
+### iii. CREATE TABLE employee_departments (
+employee_id INT,
+FOREIGN KEY (employee_id) REFERENCES employees(employee_id),
+department_id INT,
+FOREIGN KEY (department_id) REFERENCES departments(department_id)
+);
 
+DESCRIBE employee_departments;
