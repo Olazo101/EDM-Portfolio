@@ -11,7 +11,12 @@ This task involves using MySQL Workbench to design and create a database that ma
 - After inputing all the information, execute all the query to know if there's an error to your work.
 
 # Here's the screenshot of my QUERY STATEMENT
-## Task 1: CREATE TABLE employees (
+## Task 1
+CREATE DATABASE company_db;
+
+![screenshot](images/createdatabse.jpg)
+## Task 2
+CREATE TABLE employees (
 employee_id INT AUTO_INCREMENT PRIMARY KEY,
 
 employee_name VARCHAR(255) NOT NULL,
@@ -22,14 +27,16 @@ FOREIGN KEY (manager_id) REFERENCES employees(employee_id)
 
 ![screenshot](images/task1.jpg)
 
-## Task 2: CREATE TABLE departments (
+## Task 3
+CREATE TABLE departments (
 department_id INT AUTO_INCREMENT PRIMARY KEY,
 
 department_name VARCHAR(255) NOT NULL);
 
 ![screenshot](images/task2.jpg)
 
-## Task 3: CREATE TABLE employee_departments (
+## Task 4
+CREATE TABLE employee_departments (
 employee_id INT,
 
 FOREIGN KEY (employee_id) REFERENCES employees(employee_id),
@@ -40,7 +47,8 @@ FOREIGN KEY (department_id) REFERENCES departments(department_id)
 
 ![screenshot](images/task3.jpg)
 
-## Task 4:CREATE TABLE employee_projects (
+## Task 5
+CREATE TABLE employee_projects (
 employee_id INT,
 
 FOREIGN KEY (employee_id) REFERENCES employees(employee_id),
@@ -49,7 +57,8 @@ project_name VARCHAR(255) NOT NULL);
 
 ![screenshot](images/task4.jpg)
 
-## Task 5: CREATE TABLE managers (
+## Task 6
+CREATE TABLE managers (
 managers_id INT AUTO_INCREMENT PRIMARY KEY,
 
 employee_id INT,
