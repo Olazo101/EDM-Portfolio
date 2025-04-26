@@ -68,7 +68,7 @@ FOREIGN KEY (employee_id) REFERENCES employees(employee_id)
 
 ![screenshot](images/task5.jpg)
 
-# Here's the TABLE STRUCTURE
+# Here's the screenshot TABLE STRUCTURE
 ## Task 1: Employees
 ![screenshot](images/empstructure.jpg)
 
