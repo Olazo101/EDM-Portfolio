@@ -80,3 +80,6 @@ DESCRIBE managers;
 ## Task 5: Managers
 ![screenshot](images/task5.jpg)
 
+# Here's the screenshot of ER Diagram
+![screenshot](images/erddiagram.jpg)
+
