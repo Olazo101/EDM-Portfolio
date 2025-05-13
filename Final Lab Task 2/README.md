@@ -7,7 +7,7 @@ In this activity, the data and all the necessary code were already provided. Wha
 - Create database, then paste the provided data then execute each code.
 # Step 3
 - Go to Database in the left top, then click Reverse Engineer.
-- Put necessary data then click next, Select your database, click next then execute and in the last part you can arrange your table base on what you want.
+- Put necessary data then click next, Select your database, click next then execute and in the last part you can arrange your table based on what you want.
 
 # Here's the screenshot of my QUERY STATEMENT
 ## Task 1
