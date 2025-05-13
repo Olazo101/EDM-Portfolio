@@ -11,7 +11,10 @@ In this activity using MySQL statements to perform table creation, apply constra
 - Put necessary data then click next, Select your database, click next then execute and in the last part you can arrange your table based on what you want.
 
 # Here's the screenshot of my QUERY STATEMENT
-## Task 1 Product
+## Task 1 CREATING DATABASE
+![screenshot](images/database.jpg)
+
+## Task 2 Product
 ![screenshot](images/product.jpg)
 
 
