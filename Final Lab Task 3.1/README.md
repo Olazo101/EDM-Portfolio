@@ -13,50 +13,35 @@ In this activity, querying a relational database using SQL. You will practice re
 
 # Here's the screenshot of my QUERY STATEMENT and TABLE STRUCTURE
 ## Task 1
-CREATE TABLE products (
-id INT AUTO_INCREMENT PRIMARY KEY,
-product_name VARCHAR(100) NOT NULL,
-price DECIMAL(10,2)
-);
-
-DESCRIBE products;
-
-ALTER TABLE products
-ADD CONSTRAINT edit_price CHECK(price>0);
-
-DESCRIBE products;
-
-INSERT INTO products
-(product_name,price) VALUES
-('Laptop', 999.99),
-('Headphones', -49.99),
-('Smartphone', 599.99),
-('Tablet', 299.99),
-('Monitor', -149.99),
-('Keyboard', 19.99),
-('Mouse', 14.99),
-('Desk Lamp', 24.99),
-("External Hard Drive", -79.99),
-('Speakers', 9.99);
-
-ALTER TABLE products
-MODIFY product_name VARCHAR(120) NOT NULL;
-
-DESCRIBE products;
 ![screenshot](images/db.jpg)
 ## Task 2
 ![screenshot](images/courses.jpg)
 ## Task 3
 ![screenshot](images/imp.jpg)
 ## Task 4
+TASK 1 
+SELECT course_name 
+FROM courses
+WHERE students_enrolled<enrollment_limit;
 ![screenshot](images/imp.1.jpg)
 ## Task 5
+SELECT course_name, SUM(students_enrolled) as 'total of students'
+FROM courses 
+GROUP BY category;
 ![screenshot](images/imp.2.jpg)
 ## Task 6
+SELECT course_name 
+FROM courses
+WHERE students_enrolled=enrollment_limit;
 ![screenshot](images/imp.3.jpg)
 ## Task 7
+SELECT SUM(students_enrolled) AS 'total number of students enrolled across all courses'
+FROM courses;
 ![screenshot](images/imp.4.jpg)
 ## Task 8
+SELECT course_name, students_enrolled
+FROM courses 
+ORDER BY students_enrolled
 ![screenshot](images/imp.5.jpg)
 
 # Here's the screenshot of my ER DIAGRAM
