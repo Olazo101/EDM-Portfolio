@@ -8,3 +8,11 @@ In this activity, the data and all the necessary code were already provided. Wha
 # Step 3
 - Go to Database in the left top, then click Reverse Engineer.
 - Put necessary data then click next, Select your database, click next then execute and in the last part you can arrange your table base on what you want.
+
+# Here's the screenshot of my QUERY STATEMENT
+CREATE TABLE student_tbl (
+    username VARCHAR(50) PRIMARY KEY
+);
+
+DESCRIBE student_tbl;
+
