@@ -14,3 +14,4 @@ I am a BS Information Systems student wants to know more about technology, data 
 - Midterm Lab Task 2:[Data Cleaning and Preparation using POWER QUERY](https://github.com/Olazo101/EDM-Portfolio/blob/main/Midterm%20Lab%20Task%202/README.md)
 - Midter Lab Task 3:[Creating Pivot Tables and Charts](https://github.com/Olazo101/EDM-Portfolio/blob/main/Midterm%20Lab%20Task%203/README.md)
 - Final Lab Task 1:[Multi Level Company](https://github.com/Olazo101/EDM-Portfolio/tree/main/Final%20Lab%20Task%201)
+- Final Lab Task 2:[Transform ER into Relational Tables](https://github.com/Olazo101/EDM-Portfolio/tree/main/Final%20Lab%20Task%202)
