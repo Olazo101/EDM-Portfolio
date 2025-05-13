@@ -30,7 +30,7 @@ In this activity, querying a relational database using SQL. You will practice re
 ![screenshot](images/imp.5.jpg)
 
 # Here's the screensht of my ER DIAGRAM
-![screenshot](images/diagram%2(2).jpg)
+![screenshot](images/diagram%20(2).jpg)
 
 
 
