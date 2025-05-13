@@ -1,1 +1,2 @@
 # Finals Lab Task 2: Transform ER into Relational Tables
+In this activity, the data and all the necessary code were already provided. What I did was to connect all the tables to make everything look organized and easier to understand. I focused on identifying how each table is related to one another by establishing the appropriate connections, such as using primary and foreign keys. This helped make the database structure clearer and more presentable, and it also allowed for easier analysis and understanding of the relationships between different parts of the data.
