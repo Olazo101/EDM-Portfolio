@@ -11,8 +11,8 @@ In this activity, querying a relational database using SQL. You will practice re
 -  Go to Database in the left top, then click Reverse Engineer.
 - Put necessary data then click next, Select your database, click next then execute and in the last part you can arrange your table based on what you want.
 
-
-
+# Here's the screenshot of my QUERY STATEMENT and TABLE STRUCTURE
+ 
 
 
 
