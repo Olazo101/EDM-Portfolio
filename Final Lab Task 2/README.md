@@ -10,6 +10,7 @@ In this activity, the data and all the necessary code were already provided. Wha
 - Put necessary data then click next, Select your database, click next then execute and in the last part you can arrange your table base on what you want.
 
 # Here's the screenshot of my QUERY STATEMENT
+## Task 1
 CREATE TABLE student_tbl (
     username VARCHAR(50) PRIMARY KEY
 );
@@ -18,3 +19,29 @@ DESCRIBE student_tbl;
 
 ![screenshot](images/student.PNG)
 
+## Task 2
+CREATE TABLE assignment_tbl (
+    shortname VARCHAR(50) PRIMARY KEY,
+    due_date DATE NOT NULL,
+    url VARCHAR(255)
+);
+
+DESCRIBE assignment_tbl;
+
+![screenshot](images/assignment.PNG)
+
+## Task 3
+CREATE TABLE submission_tbl (
+    username VARCHAR(50),
+    shortname VARCHAR(50),
+    version INT,
+    submit_date DATE NOT NULL,
+    data TEXT,
+    PRIMARY KEY (username, shortname, version),
+    FOREIGN KEY (username) REFERENCES student_tbl(username),
+    FOREIGN KEY (shortname) REFERENCES assignment_tbl(shortname)
+);
+
+DESCRIBE submission_tbl;
+
+![screenshot](images/submission.PNG)
