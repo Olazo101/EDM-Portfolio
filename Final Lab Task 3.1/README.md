@@ -2,6 +2,13 @@
 In this activity, querying a relational database using SQL. You will practice retrieving, grouping, and aggregating course data using SELECT statements and conditions. To analyze course enrollment details and generate insights such as fully enrolled courses, and total enrollments.
 
 # Step 1
+- Step 1
+- Open xampp, click start to apache and mysql, and open MYSQL workbench
+# Step 2
+- Create database to store all data.
+- Create table to organize each information.
+- Code based on the instructions that has been given and execute it to see the result.
+# Step 3
 - 
 
 
