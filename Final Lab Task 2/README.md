@@ -53,7 +53,7 @@ DESCRIBE submission_tbl;
 ## Task 2 Assignment
 ![screenshot](images/assstructure.PNG)
 
-## Task 3
+## Task 3 Submission
 ![screenshot](images/substructure.PNG)
 
 # Here's the screenshot of ER DIAGRAM
