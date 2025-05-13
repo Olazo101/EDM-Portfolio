@@ -7,6 +7,8 @@ In this activity using MySQL statements to perform table creation, apply constra
 - Create table to organize each information.
 - Code based on the instructions that has been given and execute it to see the result.
 # Step 3
+- Go to Database in the left top, then click Reverse Engineer.
+- Put necessary data then click next, Select your database, click next then execute and in the last part you can arrange your table based on what you want.
 
 
 
