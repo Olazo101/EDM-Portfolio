@@ -45,3 +45,5 @@ CREATE TABLE submission_tbl (
 DESCRIBE submission_tbl;
 
 ![screenshot](images/submission.PNG)
+
+# Here's the screenshot of TABLE STRUCTURE
