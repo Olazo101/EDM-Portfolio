@@ -47,3 +47,14 @@ DESCRIBE submission_tbl;
 ![screenshot](images/submission.PNG)
 
 # Here's the screenshot of TABLE STRUCTURE
+## Task 1 Student
+![screenshot](images/studentstructure.PNG)
+
+## Task 2 Assignment
+![screenshot](images/assstructure.PNG)
+
+## Task 3
+![screenshot](images/substructure.PNG)
+
+# Here's the screenshot of ER DIAGRAM
+![screenshot](images/erdiagram.PNG)
