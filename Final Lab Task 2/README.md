@@ -16,3 +16,5 @@ CREATE TABLE student_tbl (
 
 DESCRIBE student_tbl;
 
+![screenshot](images/student.PNG)
+
