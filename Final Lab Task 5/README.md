@@ -47,6 +47,7 @@ FROM products p
 JOIN vendors v ON p.V_CODE = v.V_CODE
 WHERE v.V_CODE IN (21344, 23119, 24288);
 ![screenshot](images/total.jpg)
+
 ## Task 4
 DELIMITER //
 CREATE PROCEDURE UpdateVendorName()
@@ -59,3 +60,11 @@ DELIMITER ;
 ![screenshot](images/updatevendorname.jpg)
 
 # Here's the screenshot of my TABLE STRUCTURE
+## Task 1
+![screenshot](images/onwardstruct.jpg)
+## Task 2
+![screenshot](images/rangestruct.jpg)
+## Task 3
+![screenshot](images/totalstruct.jpg)
+## Task 4
+![screenshot](images/updatevendornamestruct.jpg)
