@@ -17,3 +17,4 @@ I am a BS Information Systems student wants to know more about technology, data 
 - Final Lab Task 2:[Transform ER into Relational Tables](https://github.com/Olazo101/EDM-Portfolio/tree/main/Final%20Lab%20Task%202)
 - Final Lab Task 3:[Table Manipulation](https://github.com/Olazo101/EDM-Portfolio/tree/main/Final%20Lab%20Task%203)
 - Final Lab Task 3.1:[Using MYSQL Clause](https://github.com/Olazo101/EDM-Portfolio/tree/main/Final%20Lab%20Task%203.1)
+- Final Lab Task 5:[Using SQL Views, Stored Procedures and Stored Functions](https://github.com/Olazo101/EDM-Portfolio/tree/main/Final%20Lab%20Task%205)
