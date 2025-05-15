@@ -2,7 +2,7 @@
 This activity focuses on learning how to use SQL Views, Stored Procedures, and Stored Functions to efficiently manage, organize, and retrieve data from a database, enabling better performance, code reusability, and simplified access to complex queries.
 
 # Step 1
-- Open your xampp, start the apache and mysql then open MYSQL Workbench
+- Open your xampp, start the apache and mysql, click shell, then open MYSQL Workbench
 - Input the provided information
 # Step 2
 - Right click the specific table that stored in the table column to show the data inside the table
