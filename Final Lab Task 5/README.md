@@ -67,4 +67,4 @@ DELIMITER ;
 ## Task 3
 ![screenshot](images/totalstruct.jpg)
 ## Task 4
-![screenshot](images/updatevendornamestruct.jpg)
+![screenshot](images/updatestruct.jpg)
