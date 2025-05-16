@@ -77,6 +77,7 @@ END //
 
 DELIMITER ;
 CALL GetProductsByVendorAndState(21344, 'KY');
+![screenshot](images/getproduct.jpg)
 
 # Here's the screenshot of my TABLE STRUCTURE
 ## Task 1
@@ -87,3 +88,5 @@ CALL GetProductsByVendorAndState(21344, 'KY');
 ![screenshot](images/totalstruct.jpg)
 ## Task 4
 ![screenshot](images/updatestruct.jpg)
+## Task 5
+![screenshot](images/getproductstruct.jpg)
