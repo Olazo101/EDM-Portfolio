@@ -59,6 +59,25 @@ END //
 DELIMITER ;
 ![screenshot](images/updatevendorname.jpg)
 
+## Task 5
+DELIMITER //
+CREATE PROCEDURE GetProductsByVendorAndState(IN v_code INT, IN v_state VARCHAR(3))
+BEGIN
+    SELECT 
+        p.P_DESCRIPT AS product_description,
+        P.P_PRICE AS price
+    FROM 
+        Products p
+    JOIN 
+        vendors v ON v.V_CODE = V.V_CODE
+    WHERE 
+        v.V_CODE = v_code AND 
+        v.V_STATE = v_state;
+END //
+
+DELIMITER ;
+CALL GetProductsByVendorAndState(21344, 'KY');
+
 # Here's the screenshot of my TABLE STRUCTURE
 ## Task 1
 ![screenshot](images/onwardstruct.jpg)
